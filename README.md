@@ -1,2 +1,2 @@
-# riemann-conjecture
-A Unified Framework for the Riemann Hypothesis and the Jacobian Dimensional Divergence
+# riemann-hypothesis
+An Adelic Gelfand Triple Framework for the Riemann Hypothesis via Euler Product Unitarity
